@@ -2,9 +2,8 @@ PREDEF:
   - shohei.re
 
 CHAPS:
-  - okihara.re
-  - 01_chapter01.re
-  - okihara_01.re
+  - shinma/01_chapter01.re
+  - okihara/okihara_01.re
 
 APPENDIX:
 
