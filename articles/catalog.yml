@@ -1,14 +1,21 @@
-PREDEF:
-  - shohei.re
-
 CHAPS:
-  - 01_chapter01.re
-  - okihara_01.re
+
   - shohei_cha_01.re
   - shohei_cha_02.re
   - shohei_cha_03.re
   - shohei_cha_04.re
   - shohei_cha_05.re
+
+  - shinma_cha_01.re
+  - shinma_cha_02.re
+  - shinma_cha_03.re
+  - shinma_cha_04.re
+  - shinma_cha_05.re
+  - shinma_cha_06.re
+  - shinma_cha_07.re
+  - shinma_cha_08.re
+  - shinma_cha_09.re
+  - shinma_cha_10.re
 
 APPENDIX:
 
