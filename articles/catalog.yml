@@ -1,10 +1,10 @@
 PREDEF:
-  - preface.re
+  - shohei.re
 
 CHAPS:
-  - article.re
+  - okihara.re
 
 APPENDIX:
 
 POSTDEF:
-  - contributors.re
+  - shinma.re
