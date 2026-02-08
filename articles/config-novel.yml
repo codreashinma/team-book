@@ -1,0 +1,9 @@
+inherit: ["config.yml"]
+
+bookname: HelloAppStore
+booktitle: "Hello, App Store! —— AIを先生にiOSエンジニアになった365日"
+aut: ["湯川昇平"]
+catalogfile: catalog-novel.yml
+toc: true
+titlepage: true
+colophon: false

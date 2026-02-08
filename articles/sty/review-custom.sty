@@ -1,1 +1,8 @@
 % for user-defined macro
+
+% //hr の水平線に前後のスペースを追加（文字と線の重なりを防止）
+\newcommand{\reviewhr}{%
+  \vspace{\baselineskip}%
+  \noindent\rule{\textwidth}{0.4pt}%
+  \vspace{\baselineskip}%
+}
