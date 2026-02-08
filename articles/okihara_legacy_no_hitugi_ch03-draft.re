@@ -1,4 +1,4 @@
-= 第03章: _shadow_logs
+=== 第03章: _shadow_logs
 
 月曜日。入社二週目の朝。
 
