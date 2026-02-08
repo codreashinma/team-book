@@ -2,53 +2,56 @@ PREDEF:
   - はじめに.re
 
 CHAPS:
+  - 「水野純一の物語」:
+    - shohei_cha_01.re
+    - shohei_cha_02.re
+    - shohei_cha_03.re
+    - shohei_cha_04.re
+    - shohei_cha_05.re
 
-  - shohei_cha_01.re
-  - shohei_cha_02.re
-  - shohei_cha_03.re
-  - shohei_cha_04.re
-  - shohei_cha_05.re
+  - 「ブロックチェーン」:
+    - shinma_cha_01.re
+    - shinma_cha_02.re
+    - shinma_cha_03.re
+    - shinma_cha_04.re
+    - shinma_cha_05.re
+    - shinma_cha_06.re
+    - shinma_cha_07.re
+    - shinma_cha_08.re
+    - shinma_cha_09.re
+    - shinma_cha_10.re
 
-  - shinma_cha_01.re
-  - shinma_cha_02.re
-  - shinma_cha_03.re
-  - shinma_cha_04.re
-  - shinma_cha_05.re
-  - shinma_cha_06.re
-  - shinma_cha_07.re
-  - shinma_cha_08.re
-  - shinma_cha_09.re
-  - shinma_cha_10.re
+  - 「0x07」:
+    - okihara_0x07_ch01-draft.re
+    - okihara_0x07_ch02-draft.re
+    - okihara_0x07_ch03-draft.re
+    - okihara_0x07_ch04-draft.re
+    - okihara_0x07_ch05-draft.re
+    - okihara_0x07_ch06-draft.re
+    - okihara_0x07_ch07-draft.re
+    - okihara_0x07_ch08-draft.re
+    - okihara_0x07_ch09-draft.re
+    - okihara_0x07_ch10-draft.re
+    - okihara_0x07_ch11-draft.re
+    - okihara_0x07_ch12-draft.re
+    - okihara_0x07_ch13-draft.re
 
-  - okihara_0x07_ch01-draft.re
-  - okihara_0x07_ch02-draft.re
-  - okihara_0x07_ch03-draft.re
-  - okihara_0x07_ch04-draft.re
-  - okihara_0x07_ch05-draft.re
-  - okihara_0x07_ch06-draft.re
-  - okihara_0x07_ch07-draft.re
-  - okihara_0x07_ch08-draft.re
-  - okihara_0x07_ch09-draft.re
-  - okihara_0x07_ch10-draft.re
-  - okihara_0x07_ch11-draft.re
-  - okihara_0x07_ch12-draft.re
-  - okihara_0x07_ch13-draft.re
-
-  - okihara_legacy_no_hitugi_ch01-draft.re
-  - okihara_legacy_no_hitugi_ch02-draft.re
-  - okihara_legacy_no_hitugi_ch03-draft.re
-  - okihara_legacy_no_hitugi_ch04-draft.re
-  - okihara_legacy_no_hitugi_ch05-draft.re
-  - okihara_legacy_no_hitugi_ch06-draft.re
-  - okihara_legacy_no_hitugi_ch07-draft.re
-  - okihara_legacy_no_hitugi_ch08-draft.re
-  - okihara_legacy_no_hitugi_ch09-draft.re
-  - okihara_legacy_no_hitugi_ch10-draft.re
-  - okihara_legacy_no_hitugi_ch11-draft.re
-  - okihara_legacy_no_hitugi_ch12-draft.re
-  - okihara_legacy_no_hitugi_ch13-draft.re
-  - okihara_legacy_no_hitugi_ch14-draft.re
-  - okihara_legacy_no_hitugi_ch15-draft.re
+  - 「レガシーの棺」:
+    - okihara_legacy_no_hitugi_ch01-draft.re
+    - okihara_legacy_no_hitugi_ch02-draft.re
+    - okihara_legacy_no_hitugi_ch03-draft.re
+    - okihara_legacy_no_hitugi_ch04-draft.re
+    - okihara_legacy_no_hitugi_ch05-draft.re
+    - okihara_legacy_no_hitugi_ch06-draft.re
+    - okihara_legacy_no_hitugi_ch07-draft.re
+    - okihara_legacy_no_hitugi_ch08-draft.re
+    - okihara_legacy_no_hitugi_ch09-draft.re
+    - okihara_legacy_no_hitugi_ch10-draft.re
+    - okihara_legacy_no_hitugi_ch11-draft.re
+    - okihara_legacy_no_hitugi_ch12-draft.re
+    - okihara_legacy_no_hitugi_ch13-draft.re
+    - okihara_legacy_no_hitugi_ch14-draft.re
+    - okihara_legacy_no_hitugi_ch15-draft.re
 APPENDIX:
 
 POSTDEF:
