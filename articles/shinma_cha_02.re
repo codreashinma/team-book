@@ -1,4 +1,4 @@
-= 第2章　Hello, Blockchain
+== 第2章　Hello, Blockchain
 
 //hr
 
