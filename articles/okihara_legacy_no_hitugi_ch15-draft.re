@@ -397,6 +397,8 @@ ok      github.com/cloudbridge/bridgeflow/legacy/core   0.021s
 
 23:00。
 
+門倉のコミットログには、深夜二時から四時のタイムスタンプが何百と並んでいた。孤独な闇の中のコミット。今は違う。隣に瀬川がいる。
+
 最初のコミット。
 
 //emlist[][bash]{
